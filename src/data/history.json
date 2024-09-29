@@ -1,0 +1,19 @@
+[
+  {
+    "role": "MERN-Stack Developer",
+    "organisation": "Qspiders",
+    "startDate": "June-2024",
+    "endDate": "Present",
+    "experiences": ["Working on projects", "like:- landing pages,E-commerce website"],
+    "imageSrc": "history/qs.png"
+  },
+    {
+      "role": "Front-end Developer",
+      "organisation": "PNINFOSYS",
+      "startDate": "April-2023",
+      "endDate": "August-2023",
+      "experiences": ["Worked on Beauty Saloon website", "Art-Store"],
+      "imageSrc": "history/colorlogo.png"
+    }
+   
+  ]

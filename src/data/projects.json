@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Beauty Saloon Website",
+      "imageSrc": "projects/header1.png",
+      "description": "Created a visually appealing salon website with booking and customer interaction features.",
+      "skills": ["HTML","CSS","Bootstrap","javascript","Netlify"],
+      "demo": "https://www.linkedin.com/posts/shashwat1407_intern-html-css-activity-7167007646267392000-QXJX?utm_source=share&utm_medium=member_desktop",
+      "source": "GitHub:https://github.com/Singh1499"
+    },
+    {
+      "title": "Admission Portal",
+      "imageSrc": "projects/adms.png",
+      "description": "Developed a fully functional website with a user-friendly interface, admission form, admin dashboard, about ,etc",
+      "skills": ["HTML","CSS","javascript","NodeJs","ExpressJs"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Art Store",
+      "imageSrc": "projects/art.png",
+      "description": "Developed a full-stack art store to showcase and sell artwork with artist profiles.",
+      "skills": ["React","NodeJs","HTML","CSS","javascript","Vercel","MongoDB"],
+      "demo": "https://art-store-frontend.vercel.app/",
+      "source": "https://www.github.com"
+    }
+  ]
