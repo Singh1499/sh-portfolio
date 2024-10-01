@@ -2,7 +2,8 @@
 
 .container {
   margin-top: 76px;
-  color: var(--color-text);
+  color: black;
+  font-weight: 900;
   margin-left: 10%;
   margin-right: 10%;
 }
@@ -12,7 +13,14 @@
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
+  color: aliceblue;
+  font-family: math;
+  border-radius: 104px;
+  box-shadow: blueviolet;
+  box-shadow: 0 0 20px 10px rgb(46 18 159 / 25%);
+  text-align: center;
 }
+
 
 .projects {
   margin-top: 37px;

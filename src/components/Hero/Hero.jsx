@@ -10,17 +10,17 @@ export const Hero = () => {
     return (
       <section className={styles.container}>
         <div className={styles.content}>
-          <h1 className={styles.title}>Hey there, I'm Shashwat Singh</h1>
+          <span className={styles.title}>Hi,</span><span className={styles.title}> I'm Shashwat</span>WEB-DEVELOPER||FRONT-END DEVELOPER||FULL-STACK DEVELOPER
           <p className={styles.description}>
-            I'm a full-stack developer with 1 year experience of using: HTML,CSS,Bootstrap,Javascript, React,ExpressJs,
-            NodeJS and MongoDB.<br/>Reach out if you'd like to learn more!
+            "With 1 year of experience using: HTML,CSS,Bootstrap,Javascript, React,ExpressJs,
+            NodeJS and MongoDB."<br/>I'm excited to explore new opportunities and collaborate on innovative projects—let's connect!
           </p>
           <a href="mailto:myemail@email.com" className={styles.contactBtn}>
             Contact Me
           </a>
         </div>
         <img
-          src={getImageUrl("hero/mypic.jpg")}
+          src={getImageUrl("hero/img4.png")}
           alt="Hero image of me"
           className={styles.heroImg}
         />

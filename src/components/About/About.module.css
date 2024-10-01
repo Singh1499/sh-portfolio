@@ -2,13 +2,15 @@
 
 .container {
   position: relative;
-  background-color: rgba(12, 12, 12, 0.6);
+  background-color:none;
   border-radius: 15px;
   padding: 73px;
   margin-top: 129px;
   z-index: 1;
   margin-left: 10%;
   margin-right: 10%;
+   /* background-image:url("https://img.freepik.com/free-vector/gradient-black-background-with-cubes_23-2149138432.jpg?w=740&t=st=1727594995~exp=1727595595~hmac=b0bbefdcfb3a9c6b9911e971363538b22a371497881a0e379fd4f8d90bb6d840");
+background-size: cover; */
 }
 
 .title {
@@ -26,7 +28,8 @@
 }
 
 .aboutImage {
-  width: 35%;
+  width: 25%;
+  border-radius: 60%;
 }
 
 .aboutItems {
@@ -71,6 +74,8 @@
     background-color: transparent;
     padding-left: 0;
     padding-right: 0;
+background-size: cover;
+
   }
 
   .content {
@@ -78,7 +83,9 @@
   }
 
   .aboutImage {
-    display: none;
+    /* display: none; */
+    width: 35%;
+  /* border-radius: 60%; */
   }
 
   .aboutItems {
